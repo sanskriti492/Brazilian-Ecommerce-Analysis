@@ -30,8 +30,8 @@ Comprehensive analysis of 100,000+ e-commerce orders from a Brazilian marketplac
 ## Project Structure
 ```
 ├── README.md                 # Project documentation
-├── queries.sql.txt          # PostgreSQL analysis queries
-└── R_olist.R               # Statistical modeling and validation
+├── analysis.R          # Statistical modeling and validation
+└── queries.sql               # PostgreSQL analysis queries 
 ```
 
 ## Key Analyses Performed
