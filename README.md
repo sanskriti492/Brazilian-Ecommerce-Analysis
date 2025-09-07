@@ -14,6 +14,7 @@ Comprehensive analysis of 100,000+ e-commerce orders from a Brazilian marketplac
 - **PostgreSQL**: Multi-table joins, data cleaning, and complex aggregations
 - **R**: Statistical modeling, regression analysis, and data validation
 - **Tableau**: Interactive dashboard creation and data visualization
+     - Public Link: https://public.tableau.com/views/Book1_17568163922600/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
 
 ## Business Impact
 - Identified top-performing product categories and geographic markets
